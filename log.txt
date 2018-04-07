@@ -1,0 +1,116 @@
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Apr 07 2018 07:02:07 GMT-0500 (Central Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\FGall\onedrive\bootcamp\homework\homework9\liri-node-app\liri,my-tweets
+
+Data Output: 
+
+-----Tweets Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Apr 07 2018 07:07:56 GMT-0500 (Central Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\FGall\onedrive\bootcamp\homework\homework9\liri-node-app\liri,my-tweets
+
+Data Output: 
+
+-----Tweets Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 07 2018 07:19:02 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\FGall\onedrive\bootcamp\homework\homework9\liri-node-app\liri,movie-this,blade
+
+Data Output: 
+
+Movie Title: Blade
+Year: 1998
+IMDB rating: 7.1
+Rotten Tomatoes Rating: 54%
+Country: USA
+Language: English, Russian
+Plot: A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.
+Actors: Wesley Snipes, Stephen Dorff, Kris Kristofferson, N'Bushe Wright
+
+-----OMDB Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Apr 07 2018 07:26:15 GMT-0500 (Central Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\FGall\onedrive\bootcamp\homework\homework9\liri-node-app\liri,my-tweets
+
+Data Output: 
+
+-----Tweets Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Apr 07 2018 07:28:10 GMT-0500 (Central Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\FGall\onedrive\bootcamp\homework\homework9\liri-node-app\liri,my-tweets
+
+Data Output: 
+
+-----Tweets Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sat Apr 07 2018 07:29:56 GMT-0500 (Central Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\FGall\onedrive\bootcamp\homework\homework9\liri-node-app\liri,my-tweets
+
+Data Output: 
+
+-----Tweets Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 07 2018 07:48:24 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\FGall\onedrive\bootcamp\homework\homework9\liri-node-app\liri,movie-this,wind,talkers
+
+Data Output: 
+
+I'm sorry, I could not find any movies that matched the title wind talkers . Please check your spelling and try again.
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 07 2018 07:48:48 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\FGall\onedrive\bootcamp\homework\homework9\liri-node-app\liri,movie-this,a,quiet,place
+
+Data Output: 
+
+Movie Title: A Quiet Place
+Year: 2018
+IMDB rating: 8.7
+Rotten Tomatoes Rating: 97%
+Country: USA
+Language: English, American Sign Language
+Plot: A family lives an isolated existence in utter silence, for fear of an unknown threat that follows and attacks at any sound.
+Actors: Emily Blunt, John Krasinski, Noah Jupe, Millicent Simmonds
+
+-----OMDB Log Entry End-----
+
